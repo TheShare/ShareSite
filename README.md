@@ -1,9 +1,9 @@
 # information.txt
-This is my site. I really need to learn html..
+This is my site. Nothing else really to say.
 
-# site%20link
+# site link
 https://theshare.github.io/ShareSite/
 
-# Issues.txt
+# Issues
 - Links not showing up (bad issue)
 - no dark mode (preference issue)
